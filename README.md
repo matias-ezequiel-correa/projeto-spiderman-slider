@@ -2,7 +2,7 @@
   <img alt="Logo" src="./src/imagens/spider-logo.png" width="100" />
 </div>
 <h1 align="center">
-  Matías Ezequiel Correa - Projeto "Spiderman Slider" 🕷🕸
+  Matías Ezequiel Correa - Projeto "Spiderman Slider"🕷🕸
 </h1>
 <p align="center">
   Este é um projeto pessoal <a href="https://matias-ezequiel-correa.github.io/projeto-site-gtav/" target="_blank">Spiderman Slider | By Matías Correa,</a> realizado com HTML, CSS e JavaScript, atualmente hospedado no <a href="https://github.com/matias-ezequiel-correa">GitHub-Pages</a>.
