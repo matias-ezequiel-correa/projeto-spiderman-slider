@@ -1,0 +1,58 @@
+@media (max-width: 795px) {
+    .cabecalho .titulo {
+        font-size: 30px;
+    }
+    
+    .cabecalho .logo-spiderman {
+        width: 40px;
+        height: 40px;
+    }
+    
+    .spiderman-slider {
+        padding: 0 15px;
+        gap: 10px;
+    }
+
+    .btn-seta {
+        width: 25px;
+        height: 150px;
+        padding: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .lista-spiderman {
+        height: 480px;
+    }
+
+    .cartao{
+        transform: scale(1.0);
+    }
+
+    .cartao .imagem-spiderman {
+        max-height: 230px;  
+    }
+
+    .cartao .informacoes .nome {
+        max-width: 50%;
+        font-size: 18px;
+    }
+
+    .cartao .informacoes .ano {
+        font-size: 14px;
+    }
+
+    .menu-lateral{
+        min-height: auto;
+        margin-top: 10px;
+    }
+
+    .menu-lateral ul{
+        flex-direction: row;
+    }
+
+    .menu-lateral .icone{
+        width: 20px;
+    }
+}
