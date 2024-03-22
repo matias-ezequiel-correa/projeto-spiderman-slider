@@ -5,17 +5,17 @@
   Matías Ezequiel Correa - Projeto "Spiderman Slider" 🕷
 </h1>
 <p align="center">
-  Este é um projeto pessoal <a href="https://matias-ezequiel-correa.github.io/projeto-site-gtav/" target="_blank">Spiderman Slider | By Matías Correa,</a> realizado com HTML, CSS e JavaScript, atualmente hospedado no <a href="https://github.com/matias-ezequiel-correa">GitHub-Pages</a>.
+  Este é um projeto pessoal <a href="https://matias-ezequiel-correa.github.io/projeto-spiderman-slider/" target="_blank">Spiderman Slider | By Matías Correa,</a> realizado com HTML, CSS e JavaScript, atualmente hospedado no <a href="https://github.com/matias-ezequiel-correa">GitHub-Pages</a>.
 </p>
 
 ## Desing: 
 * Desktop:
-[<p align="center"><img height="400em" src="./src/design/desktop-design.png" alt="Projeto Spiderman Slider - Versão Desktop">](https://matias-ezequiel-correa.github.io/projeto-site-gtav/)<p>
+[<p align="center"><img height="400em" src="./src/design/desktop-design.png" alt="Projeto Spiderman Slider - Versão Desktop">](https://matias-ezequiel-correa.github.io/projeto-spiderman-slider/)<p>
 
 * Mobile:
-[<p align="center"><img width=250 src="./src/design/projeto-spiderman-slider.png" alt="Projeto  Spiderman Slider - Versão Mobile">](https://matias-ezequiel-correa.github.io/projeto-site-gtav/)<p>
+[<p align="center"><img width=250 src="./src/design/projeto-spiderman-slider.png" alt="Projeto  Spiderman Slider - Versão Mobile">](https://matias-ezequiel-correa.github.io/projeto-spiderman-slider/)<p>
 
-### 🔗 Link do Projeto: <a href="https://matias-ezequiel-correa.github.io/projeto-site-gtav/" target="_blank">matias-ezequiel-correa.github.io/projeto-site-gtav/</a>
+### 🔗 Link do Projeto: <a href="https://matias-ezequiel-correa.github.io/projeto-spiderman-slider/" target="_blank">matias-ezequiel-correa.github.io/projeto-spiderman-slider/</a>
 
 ## Tecnologias utilizadas:
 
